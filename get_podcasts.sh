@@ -6,7 +6,7 @@ fi
 
 wget -nc http://audioboom.com/channels/4822247.rss
 
-if [ -f rss.xml ]; then
+if [ -f 4822247.rss ]; then
 	cat 4822247.rss | grep mp3 | cut -d'"' -f2 | cut -d"?" -f1 | xargs wget -nc
 	rm -f 4822247.rss
 fi
