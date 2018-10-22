@@ -1,6 +1,6 @@
 # Latinos Who Lunch with FavyFav and Babelito 
 
-[![Latinos Who Lunch](http://static1.squarespace.com/static/56d7db797c65e4eef25d89c5/t/59e8cb19b1ffb6c4430fae82/1538024029021/?format=750w)](http://www.latinoswholunch.com/)
+[![Latinos Who Lunch](http://static1.squarespace.com/static/56d7db797c65e4eef25d89c5/t/59e8cb19b1ffb6c4430fae82/1538024029021/?format=350w)](http://www.latinoswholunch.com/)
 
 ## About
 
